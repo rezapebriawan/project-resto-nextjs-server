@@ -1,0 +1,26 @@
+[
+  {
+    "dish_name": "Spicy Ramen",
+    "dish_image": "https://i.pinimg.com/736x/d9/bd/0c/d9bd0c05616612329c159c1dad905221.jpg",
+    "price": "Rp 45.000",
+    "chef_name": "Chef Aiden"
+  },
+  {
+    "dish_name": "Grilled Steak",
+    "dish_image": "https://i.pinimg.com/736x/de/df/0d/dedf0d8b3a8870ac4e33d16dd807d036.jpg",
+    "price": "Rp 150.000",
+    "chef_name": "Chef Bella"
+  },
+  {
+    "dish_name": "Sushi Platter",
+    "dish_image": "https://i.pinimg.com/736x/fc/b5/96/fcb596a832f5460dc3c8ade4d657d8a2.jpg",
+    "price": "Rp 85.000",
+    "chef_name": "Chef Clara"
+  },
+  {
+    "dish_name": "Vegan Salad",
+    "dish_image": "https://i.pinimg.com/736x/ca/06/11/ca06111c34b2b7b316df4c7e19a48b3b.jpg",
+    "price": "Rp 60.000",
+    "chef_name": "Chef David"
+  }
+]

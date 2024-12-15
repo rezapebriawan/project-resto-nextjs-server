@@ -12,9 +12,9 @@ npm install
 node --watch index.js
 ```
 
-3. aplikasi akan berjalan di http://localhost:3000, silahkan akses endpointnya
+3. aplikasi akan berjalan di http://localhost:3001/dishes, silahkan akses endpointnya
 
 ```
-misalnya localhost:3000/movies
+misalnya http://localhost:3001/dishes
 ```
 "# project-resto-nextjs-server" 
